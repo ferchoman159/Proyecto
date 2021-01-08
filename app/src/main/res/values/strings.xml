@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="proyecto41">Proyecto</string>
+    <string name="Matricula">Matricula</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Correo">correo</string>
+    <string name="Promedio">Promedio</string>
+    <string name="Boton">boton</string>
+    <string name="Matricula1">MATRICULA</string>
+    <string name="nOMBRE1">nombre</string>
+    <string name="Imagen">Imagen</string>
+    <string name="proyecto">Proyecto</string>
+</resources>
